@@ -1,5 +1,5 @@
 Palindrode
 ==========
 
-Building the palindrode Node module based on Mark Dalgleish's article.
+Building the palindrode Node.js module, using Grunt, based on Mark Dalgleish's article.
 http://markdalgleish.com/2012/09/test-driven-node-js-development-with-grunt/

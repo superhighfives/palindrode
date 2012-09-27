@@ -1,0 +1,34 @@
+{
+  "name": "palindrode",
+  "description": "A module to test if a sentence is a panindrome.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/superhighfives/palindrode.git",
+  "author": {
+    "name": "Charlie Gleason",
+    "email": "hi@superhighfives.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/superhighfives/palindrode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/superhighfives/palindrode/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/superhighfives/palindrode.git/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/palindrode",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.15"
+  },
+  "keywords": []
+}

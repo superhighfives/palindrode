@@ -1,4 +1,4 @@
-Palindrode
+Palindrode [![Build Status](https://secure.travis-ci.org/superhighfives/palindrode.png)](http://travis-ci.org/superhighfives/palindrode)
 ==========
 
 Building the palindrode Node.js module, using Grunt, based on Mark Dalgleish's article.
@@ -9,7 +9,7 @@ Install the module with: `npm install palindrode`
 
 ```javascript
 var palindrode = require('palindrode');
-palindrode.awesome(); // "awesome"
+palindrode.test("Was it a car or a cat I saw?"); // true
 ```
 
 ## Documentation
